@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nilay3283.github.io/houston-cooling-heating/sitemap.xml
